@@ -6,11 +6,10 @@
 > **Warning**
 > 如果大家有发现存在敏感内容的群组、频道和机器人欢迎在 issues 中提交，会在第一时间处理。
 
-> GitHub 项目地址直达
-> [https://github.com/jackhawks/rectg](https://github.com/jackhawks/rectg)
 
 | 名称 | 简介 | 人数 | 类型 |
 | :--: | :-- | :--: | :--: |
+| [吃瓜 段子分享(日更)](https://t.me/chigua9527007) | 日常段子+新闻+妹子(日更) | 4 | 频道 |
 | [Hexo 博客交流](https://t.me/hexozh) | Hexo 是一个快速、简洁且高效的博客框架 | 1499 | 频道 |
 | [🖼ANIME Wallpaper](https://t.me/acgwallpaper) | 壁纸 Wallpaper | 3316 | 频道 |
 | [LIHAI 分享](https://t.me/lihaiba) | 一个分享频道，进频道先看置顶，不定时不定量更新，希望推送内容对你能有帮助 | 23316 | 频道 |
